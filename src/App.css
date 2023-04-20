@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+p, form{
+  font-weight: bolder;
+}
+body{
+  background: #7e4d15;
+}
+.bar{
+  border-radius: 5px;
+  border-color: white;
+
+}
